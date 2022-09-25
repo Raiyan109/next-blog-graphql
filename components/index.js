@@ -1,3 +1,4 @@
 export { default as PostCard } from './PostCard'
-export { default as Catagories } from './PostCard'
-export { default as PostWidget } from './PostCard'
+export { default as Catagories } from './Catagories'
+export { default as PostWidget } from './PostWidget'
+export { default as Header } from './Header'
